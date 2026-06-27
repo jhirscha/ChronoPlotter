@@ -44,3 +44,7 @@ python main.py
 6. Click **Plot All** to render the time-series graph.
 7. Switch to the **Allan Deviation** tab to view the calculated stability metrics.
 
+## GUI Images
+
+![main gui](images/ui_screenshot.png)
+![adev gui](images/adev_plot.png)
